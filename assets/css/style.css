@@ -1,0 +1,54 @@
+/**
+* Template Name: Gp - v4.9.0
+* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+
+/*--------------------------------------------------------------
+# Personal by Victor Siig
+--------------------------------------------------------------*/
+
+body{
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+.toptekst {
+  font-size: 80%;
+  text-align: center; 
+  margin-left: auto;
+  margin-right: auto;
+  color:rgba(2, 2, 2, 0.5);
+  background-color: #ffc451; 
+  width: 100%;
+}
+
+.courses {
+  font-size: 110%; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr.rounded {
+  border-top: 8px solid #ffc451;
+  border-radius: 5px;
+}
+
+div.center { text-align: center; }
+
+table.center{ 
+  text-align: center;
+  font-size: 110%; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  display: block;
+  font-size:90%; 
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  height: 2.5rem;   
+}
